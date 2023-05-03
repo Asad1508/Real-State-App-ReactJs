@@ -1,0 +1,17 @@
+.c-container{
+    justify-content: space-around;
+    gap: 1rem;
+}
+.c-container>img{
+    width: 9rem;
+    animation-name: names;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background: #eee;
+    padding: 1rem;
+    box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.48);
+    border-radius: 10px;
+}
+
